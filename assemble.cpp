@@ -1,6 +1,5 @@
 /* ICS 51 Lab 2 */
 char * yourName = "Falmata Mohamed";
-char * studentID = "31827036";
 
 /*******************************************************************************
 	Part A - Bit Operation
